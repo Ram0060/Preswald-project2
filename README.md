@@ -32,5 +32,3 @@ This project is a data exploration app built with the Preswald platform. It anal
 - **SQL-like queries**: via Preswald’s `query()` interface
 - **Plotly Express**: for clean and interactive charts
 
-## 📂 Folder Structure
-
